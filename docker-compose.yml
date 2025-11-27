@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  ubuntu:
+    image: ubuntu:latest
+    container_name: ubuntu-linux
+    tty: true              
+    stdin_open: true       
+    command: ["/bin/bash"]
+    volumes:
+      - ./data:/data       
