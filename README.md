@@ -1,4 +1,4 @@
-## Comandos utilizados
+## Aluno: Rhuã Yuri
 
 ### Inicializar o container
 - `docker compose up --build`
