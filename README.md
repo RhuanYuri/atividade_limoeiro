@@ -6,6 +6,10 @@
 ### Acessar o container
 - `docker exec -it ubuntu-linux bash`
 
+### instalar adduser
+- `apt update`
+- `apt install adduser`
+
 ### Adicionar usuários
 - `adduser monica`
 - `adduser cebolinha`
